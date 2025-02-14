@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3db484fd1df9b5",
+        "id": "9ba21bd62e2b57ae",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ce9719e387d9a0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "图片/交叉图 1.png"
-              },
-              "icon": "lucide-image",
-              "title": "交叉图 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3d0a5866bda45806",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3d3fe9b7c46cd5e",
+            "id": "b1e70eb50c2e7f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CUMCM/2022_C 古代玻璃制品的成分分析与鉴别.md",
-                "mode": "source",
-                "source": false
+                "file": "CUMCM/2021_b 乙醇偶合制备C4烯烃.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2022_C 古代玻璃制品的成分分析与鉴别"
+              "title": "2021_b 乙醇偶合制备C4烯烃"
             }
           }
         ]
@@ -58,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -156,10 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CUMCM/2022_C 古代玻璃制品的成分分析与鉴别.md"
+                "file": "CUMCM/2021_b 乙醇偶合制备C4烯烃.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2022_C 古代玻璃制品的成分分析与鉴别 的大纲"
+              "title": "2021_b 乙醇偶合制备C4烯烃 的大纲"
             }
           }
         ],
@@ -179,53 +165,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3d3fe9b7c46cd5e",
+  "active": "b1e70eb50c2e7f1f",
   "lastOpenFiles": [
-    "图片/交叉图 1.png",
+    "CUMCM/CUMCM 代码/2021_b 代码.md",
+    "CUMCM/2021_b 乙醇偶合制备C4烯烃.md",
+    "可能性表.xlsx",
+    "图片/2021——b/回归图.png",
+    "图片/2021——b/性能图.png",
+    "图片/2021——b/误差分析图.png",
+    "图片/2021——b/训练状态图.png",
+    "分析结果.xlsx",
+    "拟合结果.xlsx",
+    "图片/2021——b/C4收率拟合曲线.png",
+    "图片/2021——b/C4收率.png",
+    "图片/2021——b/C4选择性与乙醇转化率.png",
     "CUMCM/2022_C 古代玻璃制品的成分分析与鉴别.md",
-    "文件/~$铅钡数据（还原后）.xlsx",
-    "文件/~$还原后数据.xlsx",
-    "文件/~$单因素方差分析.xlsx",
-    "文件/~$fisher精确检验.xlsx",
-    "文件/~$单因素方差分析铅钡.xlsx",
     "CUMCM/2023_C 蔬菜类商品的定价与补货策略.md",
+    "~$拟合曲线 1.xlsx",
+    "拟合曲线 1.xlsx",
+    "~$拟合曲线.xlsx",
+    "拟合曲线.xlsx",
+    "图片/2021——b",
+    "图片/未命名.md",
+    "图片/其他",
+    "图片/2021——b/A4乙醇.png",
+    "图片/2021——b/A4C4.png",
+    "图片/2021——b/A3温度乙醇.png",
+    "~$结果.xlsx",
+    "建模/绘图/绘图.md",
+    "建模/数据导入与处理/数据处理.md",
+    "建模/基本算法/Spearman分析.md",
     "CUMCM/CUMCM 代码/2022_C 代码.md",
     "建模/基本算法/随机森林.md",
-    "图片/hotmap 1.png",
-    "图片/hotmap.png",
-    "图片/谱系图 1 1.png",
-    "图片/谱系图 2.png",
-    "划分结果.csv",
-    "46D89430",
-    "~$铅钡数据（还原后）.xlsx",
-    "图片/特征重要性图 1.png",
-    "铅钡数据（还原后）.xlsx",
-    "图片/谱系图 1.png",
-    "图片/谱系图.png",
-    "~$高钾分类数据（还原后）.xlsx",
-    "图片/特征重要性图 (1).png",
-    "图片/聚类图 1.png",
     "建模/基本算法/系统聚类.md",
     "建模/基本算法/方差检验（F检验）.md",
     "Obsidian规范.md",
     "建模/基本算法/卡方检验与fisher精确检验.md",
-    "建模/基本算法/Spearman分析.md",
     "建模/基本算法/Kmeans聚类分析.md",
     "CUMCM/CUMCM 代码/spearman分析代码.md",
     "修改内容/第一版修改内容.md",
     "CUMCM/CUMCM 代码/(蔬菜数据).md",
     "建模/基本算法/SARIMA时间序列预测.md",
     "建模/基本算法/数据拟合.md",
-    "建模/绘图/绘图.md",
-    "建模/数据导入与处理/数据处理.md",
     "建模/数据导入与处理/数据导入.md",
     "第一版修改内容.md",
     "修改意见.md",
     "建模/基本算法/topsis法.md",
     "CUMCM/CUMCM 代码/蔬菜第三问代码.md",
     "CUMCM/CUMCM 代码/蔬菜topsis.md",
-    "建模/基本算法/GA（遗传算法）.md",
-    "CUMCM/CUMCM 代码/蔬菜仿真实验.md",
     "CUMCM/CUMCM 代码/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
